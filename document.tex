@@ -1,8 +1,7 @@
 \documentclass[        
     a4paper,          % Tamanho da folha A4
     12pt,             % Tamanho da fonte 12pt
-    chapter=TITLE,    % Todos os capitulos devem ter caixa alta
-    section=Title,    % Todas as secoes devem ter caixa alta somente na primeira letra
+    section=TITLE,    % Todas as secoes devem ter caixa alta
     subsection=Title, % Todas as subsecoes devem ter caixa alta somente na primeira letra
     oneside,          % Usada para impressao em apenas uma face do papel
     english,          % Hifenizacoes em ingles
@@ -11,7 +10,30 @@
     fleqn             % Comente esta linha se quiser centralizar as equacoes. Comente também a linha 65 abaixo
 ]{abntex2}
 
+\counterwithout{section}{chapter}
+
+\input{preambulo.tex}
+
 \begin{document}	
-  Olá.
+
+  \begin{flushright}
+    \textbf{André Carvalho}
+
+    \textbf{Nome do Professor}
+  \end{flushright}
+
+  \begin{center}
+      \Large \textbf{RESUMO}
+  \end{center}
+
+  \noindent // TODO Aqui é apresentado o trabalho de forma sucinta (até 250 palavras, de 8 a 10 linhas, apenas um parágrafo e espaçamento simples), informando ao leitor finalidade, metodologia, resultados e conclusão do documento, de tal forma que este possa, inclusive, dispensar a consulta ao original se julgado que o conteúdo não é de seu interesse. O resumo deve ser composto de uma sequência de frases concisas, afirmativas, e não de enumeração de tópicos, lembrando que é necessário o uso de parágrafo único. A primeira frase deve ser significativa, explicando o tema principal do documento. A seguir, deve-se indicar a informação sobre a categoria do tratamento (memória, estudo de caso, análise da situação etc.).
+
+  \noindent \textbf{PALAVRAS-CHAVE:} Termos e Palavras 1. Termos e Palavras 2. Termos e Palavras 3.
+
+  \section{INTRODUÇÃO}
+
+  A história do ensino de línguas, como aponta Richards e Rodgers (2001, p. 3), é caracterizada pela busca de formas mais eficientes de ensinar uma segunda língua. Embora possa-se dizer que esse campo de conhecimento possui séculos de existência — inicialmente dominados pela tradição que herdou do ensino de latim os métodos e procedimentos de ensino de línguas — foi, segundo Richard e Rodgers (2001, p. 15, tradução nossa) no período entre os anos 1950 e 1980 que a busca por formas mais eficientes de ensinar uma segunda língua intensificou-se. Isso se deu, em grande parte, pela importância que a língua inglesa adquiriu como meio de instrução na sociedade nesse período, marcada por um intenso processo de globalização e cujas comunicações foram amplamente transformadas pelo advento da Tecnologia da Informação e Comunicação (TIC), aumentando portanto a demanda por eficiência nesse ramo. As transformações nos campos da linguística, linguística aplicada, psicologia do desenvolvimento e psicologia da educação também foram responsáveis pelo embasamento teórico de uma série de novas formas de pensar o ensino de línguas, além de retirar tração e suportar antigas formas de pensar esse mesmo campo. A união desses aspectos supracitados fomentou então um contexto ideal para o surgimento de novas formas de realizar a prática docente na área de línguas. 
+
+  Nesse contexto do surgimento de novos métodos de ensino de línguas surgiu a Abordagem Lexical, desenvolvida por Michael Lewis no início dos anos 1990. O texto seminal de Lewis surgiu como uma revolução no campo da linguística aplicada, sobretudo no ensino de língua estrangeira.
 
 \end{document}
