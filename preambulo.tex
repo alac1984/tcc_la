@@ -20,6 +20,7 @@
 \usepackage{tocloft}                                % Permite alterar a formatação do Sumário
 \usepackage{etoolbox}                               % Usado para alterar a fonte da Section no Sumário
 \usepackage[nogroupskip,nonumberlist]{glossaries}   % Permite fazer o glossario. A apcao "sort=use" faz com que as siglas aparecam na lista conformse sao usadas no texto.
+\usepackage[alf]{abntex2cite}                       % Citações padrão ABNT
 
 \usepackage[format=plain,justification=justified,skip=0pt,singlelinecheck = false,labelsep=colon]{caption}            % Altera o comportamento da tag caption. Algumas opcoes do caption so podem ser alternada no arquivo "antex2.cls, linhas 334 a 348.
 
@@ -51,6 +52,7 @@
 \makeindex      % Gera o Indice do documento         
 
 \renewcommand{\labelitemi}{\textendash} %Altera os marcadores de itemize para 
+\renewcommand{\bibsection}{} % Remover o Referências criado pelo abnt2cite
 
 \title{O Léxico Gramatizado: Uma Exploração Bibliográfica da Abordagem Lexical}
 \author{André Carvalho} 

@@ -62,408 +62,9 @@
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty"
-          ],
-          "6108b4a0ebda7e4d4504c9913c4e45c861ae5902f561624953aac4707ce2fa46"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty"
-          ],
-          "6712f9addd61a3b66a1a199cfb93c4caad3de439d11ec3b49e61d712dbb28dae"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty"
-          ],
-          "a7db2834e02bd11be0e62a3be15e3dc293ba1be9196f19b29b9d98bfdbeb7514"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/tracklang/tracklang.sty"
-          ],
-          "92ae05e2014202e8cf6ff100dc23404c1898afdee1c872c5c68b09f25ed0cc54"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty"
-          ],
-          "4493ccc2feb545e3d43e5c9330a12f3c9188a44172cce0946bce3e8d71ff9e59"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty"
-          ],
-          "f6a90b775149ecba1a7868d6fa9789adf6ac0a6c1170d3990bb1004f6d7cb77b"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2.cls"
-          ],
-          "0001d6b6c341ff7e2811b87fb8a921aae91ff3afd626e8b07d1478c6eaae4119"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty"
-          ],
-          "5de5c8caff4e1e518bca646ebc0eb0ce2cd3886c0bf833f808ffcbef37aa6ab1"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty"
-          ],
-          "df4f6bf223f5d40d1f47a416770ea3f9cefff70c7fc8d37999c669929633769f"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg"
-          ],
-          "dfff35d5535e3edd1e1ac6ea6f82c8e2eec4c2edc5f1d1a498c04ec059223b00"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf"
-          ],
-          "6c4ef8d50ce7d7cab9f9a7f72497085840c349a022a493b76e27f54e0934430d"
-        ],
-        [
-          "file",
-          [
             "/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty"
           ],
           "f4d21a31f5f49b55d977269d799d9a66a29f057bb7be1fe27ceb767029819f00"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty"
-          ],
-          "4a728ad40dd3708c44cb418f4a19bf0ba4f32fdbfa35ee3a5ad205352d5497b6"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-portuges-utf8.ldf"
-          ],
-          "407986a88d37ec3d07bafc53f3c10a9d5071f924091640488c44ab756820dc46"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty"
-          ],
-          "d0f20a8d678f8236e2fa0bf85f1885231f478b481b3577230b2f75d4ff136d0f"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty"
-          ],
-          "28be410832fdddeb9c853ceb14d49845de1c62316acfe4406f8b5b60f2e13e62"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty"
-          ],
-          "18c28b99321d0f4576cb42e2793d2654828b273700224cd9ee27047f803e99f5"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb"
-          ],
-          "2ef9d47303d25f3c9553a43255dae8c39160e130ad5ed34444e39dee03d796a1"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty"
-          ],
-          "5cf523f1f8f87a365b9b2d16d79e62e0363a833dfdfa889e99f5251064661e83"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty"
-          ],
-          "ef8d0e5e946d72bad96013dae0a5fcb671bed9434ddbd0cccdbe6c8c6f1b66fb"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty"
-          ],
-          "6e43d7541eae1d314caf5c9cb160ad079a3f2ae703c50c87e0c7fe71c1015e1f"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm"
-          ],
-          "1ce8af37ed38e93940829d3540e494eaaddc5201758d036b9074467e70a738dc"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty"
-          ],
-          "f49c04b4146b0abbfea6865688574067f9f424b270859fa7e88c0410148dc95e"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty"
-          ],
-          "9d11c81501953d689787ff14c073d2f1eda5874068db9e882b8dbbf9a9d863b0"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls"
-          ],
-          "257301336354a8808a88d416b2b91de1fcc19d1c7b8e73bac5721b7d596f6769"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def"
-          ],
-          "3c08230c780a081f903eaf264d73fe4f7e048c9e120d9f68ec9a22a9fca75a94"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty"
-          ],
-          "5c33cb1717024ebe00adb88514357ab394ae5f9433418fd0442ba8c64462db14"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty"
-          ],
-          "26ab10fd43fd5a90f98bcbed3a99978808da8878eb73835db4e0346371aee41e"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty"
-          ],
-          "8c4c4fcb36c5cf2c3ff626211454be00d5eebc98378af9cde6df9e056d486f92"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty"
-          ],
-          "3d2226e3d68b4255061baa496cc9cbc107816a7d364720c1bd8c83dccb047b64"
-        ],
-        [
-          "file",
-          [
-            "/etc/texmf/web2c/texmf.cnf"
-          ],
-          "3443c7e22fbb4585732473f7e95d3cbf3e8657100f9117e711e2af5b0db85a40"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty"
-          ],
-          "90da431278d0f78789d2a796e6480efea174ccc7b7aad21d955d3ba7fcbe5bb7"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty"
-          ],
-          "815582a920087c3a3c7dbf4d357b22db05e087f87b7fdcadf606d9f1fe750cb4"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf"
-          ],
-          "ef67e49c69cade3fa1ca5a7188ce96d9c765c11c951a14265d1bba14137909fd"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty"
-          ],
-          "769ed7de440244502eed14a51ee96f1dda3168411a7c9245d9cc10d7e36850ac"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty"
-          ],
-          "3ef84c3b0794f630fef909af51b9d72f2a1fafce921803a73909a2caab7d323b"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty"
-          ],
-          "00c8665544687fea57c27a6be454f832c5190e710545102ef0507238bad1365e"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty"
-          ],
-          "4c4ffabeddfac94f0338b6c53c6c66446c16e3674482428752a12b8ecd19137e"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty"
-          ],
-          "a4a44b5c0e80f9b20a7a75898a4b8cbfafdf67fef3e857a739b51ed42c5fa996"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-pt-BR.ldf"
-          ],
-          "8173d6d09fe8ccc4692610ab509e6c254a2741709adbee1435364fe4ff28934d"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty"
-          ],
-          "b3f0e56366c11b85dae521f9a48a6fd415dec1ce8c83152fde813a9f64445b49"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texmf/web2c/texmf.cnf"
-          ],
-          "ced214c26baca02d79428fd1e7f3acf59e8d60436e28bc269c3fde93e1f70bab"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty"
-          ],
-          "6557a41319a2fa2fbe021b8f33cdc327f11c1088862f18d727f5b43971e62b05"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty"
-          ],
-          "d86202a3fa0d19b3a78498f029d83f6a174185297e5991339e658d037b9ece3a"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/tracklang/tracklang.tex"
-          ],
-          "a43473475c0a8d8bee9f53a7e79cf2c141f21feb713923f0fab9623d091f10f4"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty"
-          ],
-          "2373f56849ac606473e77053e5c1d14c92aba312b3f684e02a130eaf36f2de47"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty"
-          ],
-          "a68d29397c0119455497d507e4fea6f1227b3520d608262286f1891be0145d64"
-        ],
-        [
-          "file",
-          [
-            "preambulo.tex"
-          ],
-          "3c8964bf4473a032b974e6f1828d998bd964ba164b499941f1685406334c293a"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty"
-          ],
-          "6617975cf676f10819973baa76cdbb2d01611fa48d4d270c3e357ba8e849955d"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def"
-          ],
-          "5c06584486c1e879456058641d489fb39c844819f7da76cd6edd0200156f3519"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty"
-          ],
-          "2df7e0bd148c99d8097352b8ac9948dccf91d61ba360dcf43f82206933b6045b"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def"
-          ],
-          "9617358386bec1691faec14fd624634525f105505a5f9573c47bd4f617ddcb5d"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty"
-          ],
-          "a8948d15987e13761cb2d97d05703051013779963336094044b5f1993057c1fb"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty"
-          ],
-          "cdac603619a4c129511ef8a3abfbb4d2068b1bb67626cb30568baa0ceb26aea2"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty"
-          ],
-          "7fb6efe9300a32a4e2a3fbd950f2ffc7f745aad46beaa64b602a583915f2a168"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty"
-          ],
-          "7fe47ed7f8222c56452bd73bf0682e72023ece06d59207653a02e080a341118d"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty"
-          ],
-          "b10381f0017ae75bd03dc9175b35ad56b93fdd24f2a47dd4aa9c6987ef35ccdb"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty"
-          ],
-          "b6a1d70279e610f9d42443e7f4479b785e8abb75f6a91c502459694285b41eec"
         ],
         [
           "file",
@@ -475,37 +76,170 @@
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/caption/caption-memoir.sto"
+            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty"
           ],
-          "2caa0c998effa41dd47571ac3b40061780ee2e0736a2108e1c6935cfce8c441a"
+          "18c28b99321d0f4576cb42e2793d2654828b273700224cd9ee27047f803e99f5"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty"
           ],
-          "3e83a817c6fc8ae6a6f1572a7a56292b7185e27c5765431517206e1d808c794c"
+          "b10381f0017ae75bd03dc9175b35ad56b93fdd24f2a47dd4aa9c6987ef35ccdb"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map"
+            "/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty"
           ],
-          "d9693993efdc7d0b9ab3df777589995d43e24eeae95f12b6a230a19caadeaa42"
+          "b4968a9f4fbc33351ee1cf94115632b18abbc1b72a98da75eb6188a514f6b5f5"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty"
           ],
-          "fbf51b6bf0e1b336b3f7dc0cfb05a679f83ddbb81026ce24cf46713debeaba7b"
+          "6712f9addd61a3b66a1a199cfb93c4caad3de439d11ec3b49e61d712dbb28dae"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty"
           ],
-          "d90cfa74087e9f8678fb81bde57f809f0d4043f2674cb23b73a85958ec4a0fb6"
+          "6108b4a0ebda7e4d4504c9913c4e45c861ae5902f561624953aac4707ce2fa46"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex"
+          ],
+          "d956774b1d33cbb50e6756a9007533d1ba7435271376251fd2f8139aa9efd623"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm"
+          ],
+          "87f2d8981927644cbecaf3d639e96e348ea4e7be49d8804468bd8ba9ff3f5244"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty"
+          ],
+          "05482bdac352028d50d737fa854a17db94af9147bd07cc4c3d439686ba01ad50"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf"
+          ],
+          "9ce08b87987a8e69bcffbb4625c97bb7ebdb95062e72047a114087e730720bdb"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty"
+          ],
+          "127b79134458901760ceb1ca54963fba93c758b5911ddd1684afffbc2e1aca2f"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty"
+          ],
+          "90da431278d0f78789d2a796e6480efea174ccc7b7aad21d955d3ba7fcbe5bb7"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex"
+          ],
+          "27c2623a2799a8b3c87ebc8b4c5e01e46286907eff3d5ffce66ad563949c7a98"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1440.tfm"
+          ],
+          "215df3918501eeca47ca0078feaaa5ddc0679fb1f1f7357aa4cdf05a90a86169"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty"
+          ],
+          "9d11c81501953d689787ff14c073d2f1eda5874068db9e882b8dbbf9a9d863b0"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm"
+          ],
+          "8db0355b7f542b672e33e2cf79ff50a8b99cf2fdba851d65bc223255a4fbbb67"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty"
+          ],
+          "121f45cee5e0a32583909763f95b1aae2c8f0d0a086def03fd958ebdad5e5c02"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty"
+          ],
+          "1bd5d42025520bef74f8808af99cf3f3be7d2e3774b9931bf85c11ba81bb6cab"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty"
+          ],
+          "72a45b7f07d85a66605bbec6c0f783527995722e15c3bc5963b3048b9831bbc0"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty"
+          ],
+          "70420ed5dc9136c6b689eae14406f1dfdb146ebcc9d16701e2501c29e9772c26"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty"
+          ],
+          "26f057c1673e58d8ee6ce0031c795e24ed638db9a342ca75b7234ec0de439682"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty"
+          ],
+          "a62143db8b3bf1e52082c32e3feb7450bc90c000c6c48a38fa51cf96a6075eae"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty"
+          ],
+          "2373f56849ac606473e77053e5c1d14c92aba312b3f684e02a130eaf36f2de47"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty"
+          ],
+          "196f2a7038e1727c4088a015bf11cac88abfedc5b7ee5eca65f44ab91dbac415"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg"
+          ],
+          "a3529ccdadc8248b4c5d7c34ceea53bdc1509b54f18a192ad51b924bd297d8df"
         ],
         [
           "file",
@@ -517,9 +251,58 @@
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg"
+            "/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty"
           ],
-          "10db2171b6e267720299c10b9e84f92c5cf069941dbfe3760e198304e49d5324"
+          "e108ddab8e5b8e2bff1c5cea9345b2b3f79954290b1a97f416dea35e296e31ba"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg"
+          ],
+          "09874323d2cab7ee749f0420961a5a3971841752ef3379b2f2a4f09295eefb84"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg"
+          ],
+          "dfff35d5535e3edd1e1ac6ea6f82c8e2eec4c2edc5f1d1a498c04ec059223b00"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty"
+          ],
+          "dab8b0e621267acfd89736cf97bdcc02647c545c0719c4997be8a7d1bf98f9c3"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty"
+          ],
+          "d90cfa74087e9f8678fb81bde57f809f0d4043f2674cb23b73a85958ec4a0fb6"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1200.tfm"
+          ],
+          "31ba87745152b9d82a01073987a84873e61fc56ee740a8175e1697756ae4d473"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty"
+          ],
+          "7fe47ed7f8222c56452bd73bf0682e72023ece06d59207653a02e080a341118d"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def"
+          ],
+          "5c06584486c1e879456058641d489fb39c844819f7da76cd6edd0200156f3519"
         ],
         [
           "file",
@@ -531,23 +314,240 @@
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty"
           ],
-          "c206a966a49fe47d1c59723d116dac95994468272cda392a56cf7379519c460f"
+          "dea8f29e6e65184552dd6cb62e111232c117f7be6d0983a5d6261e420f9cd272"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty"
+            "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb"
           ],
-          "a217353d233e54e8c0944d87ea2924ec1f20d849a35b749698df03884856e5e3"
+          "7f3f19f61452892a29d06af2836331ca78aed29390914d294f7a440d35927142"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty"
           ],
-          "d088c75e16c3c9f6b979a59571b96e5dd9e487a720bc74591580878388b82918"
+          "16dffe967174f21dbd52ef849bcb74741109f3ce5bc68b881f1ce4aef3133b2a"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm"
+          ],
+          "a48198d87f9b9f90d652b8f41d41dbb3978a44669225c89394a4620031ace6a2"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty"
+          ],
+          "ef8d0e5e946d72bad96013dae0a5fcb671bed9434ddbd0cccdbe6c8c6f1b66fb"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty"
+          ],
+          "3e83a817c6fc8ae6a6f1572a7a56292b7185e27c5765431517206e1d808c794c"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-portuges-utf8.ldf"
+          ],
+          "407986a88d37ec3d07bafc53f3c10a9d5071f924091640488c44ab756820dc46"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def"
+          ],
+          "3c08230c780a081f903eaf264d73fe4f7e048c9e120d9f68ec9a22a9fca75a94"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/brazil.ldf"
+          ],
+          "5cc3cc0024662fae3101c02276421df01492b1bd877e1e2370d35e5660ebb683"
+        ],
+        [
+          "file",
+          [
+            "preambulo.tex"
+          ],
+          "69916a016a5988433b4736aba784748130c716802bd4e9644a30dc1882d47c1c"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty"
+          ],
+          "70100828f084208eae5f60de32ac38b1b48c6ab00b58069423bc805ffc1d26ef"
+        ],
+        [
+          "file",
+          [
+            "/var/lib/texmf/web2c/pdftex/pdflatex.fmt"
+          ],
+          "91b035f4dab761a8a4479fcf4cd782ccb636c84633b2256fe6b4b99607f4b582"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty"
+          ],
+          "a4a44b5c0e80f9b20a7a75898a4b8cbfafdf67fef3e857a739b51ed42c5fa996"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty"
+          ],
+          "28be410832fdddeb9c853ceb14d49845de1c62316acfe4406f8b5b60f2e13e62"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/web2c/texmf.cnf"
+          ],
+          "ced214c26baca02d79428fd1e7f3acf59e8d60436e28bc269c3fde93e1f70bab"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf"
+          ],
+          "ef67e49c69cade3fa1ca5a7188ce96d9c765c11c951a14265d1bba14137909fd"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def"
+          ],
+          "2f61dd99e83b8c04ede33d738564aa335c82132b1f0dcf276b98435d7931d28e"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty"
+          ],
+          "fbf51b6bf0e1b336b3f7dc0cfb05a679f83ddbb81026ce24cf46713debeaba7b"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty"
+          ],
+          "d86202a3fa0d19b3a78498f029d83f6a174185297e5991339e658d037b9ece3a"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/tracklang/tracklang.sty"
+          ],
+          "92ae05e2014202e8cf6ff100dc23404c1898afdee1c872c5c68b09f25ed0cc54"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def"
+          ],
+          "fa3832daa966cdddbc19f8a974c9a73be57f7e50ec8ffc9ef1c2a514116b5bfe"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty"
+          ],
+          "618f4301b971a128f247f7eb388ec4b1ac0d7293a22ce89fb48af2a2752f1fca"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty"
+          ],
+          "7fb6efe9300a32a4e2a3fbd950f2ffc7f745aad46beaa64b602a583915f2a168"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty"
+          ],
+          "1ac9e7892621c020cfb22f081821b11625eb93c7c32fa47fd3e32a31c072c9d4"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty"
+          ],
+          "a73003b4bb2dc8a814533ddbd31600e6626827799c2a465d03ef42e7a33fa71b"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty"
+          ],
+          "d0f20a8d678f8236e2fa0bf85f1885231f478b481b3577230b2f75d4ff136d0f"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty"
+          ],
+          "60268517bcfcba6dfc3750e18ac15e65acaeb0d231fa35668fabbb0da23e1c9e"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty"
+          ],
+          "92b2cd262dc42d529a9467c66ebf181468f262756fa150c554a10f5a99b91217"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty"
+          ],
+          "2df7e0bd148c99d8097352b8ac9948dccf91d61ba360dcf43f82206933b6045b"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty"
+          ],
+          "3a5e77870557530b7bef361a2d5af7346121807e335dcc291cb6fb6a773b569a"
+        ],
+        [
+          "file",
+          [
+            "/etc/texmf/web2c/texmf.cnf"
+          ],
+          "3443c7e22fbb4585732473f7e95d3cbf3e8657100f9117e711e2af5b0db85a40"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texmf/web2c/texmf.cnf"
+          ],
+          "ced214c26baca02d79428fd1e7f3acf59e8d60436e28bc269c3fde93e1f70bab"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty"
+          ],
+          "15b93ce4099a9cd0f542429809cdfbd1555ec7bb631037537c10c4b54ac7116b"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty"
+          ],
+          "f49c04b4146b0abbfea6865688574067f9f424b270859fa7e88c0410148dc95e"
         ],
         [
           "file",
@@ -566,233 +566,16 @@
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty"
           ],
-          "1f20fe67c85a9636cab892d125f4722e6ba96aa459c2b189c0228912c5d4b575"
+          "6e43d7541eae1d314caf5c9cb160ad079a3f2ae703c50c87e0c7fe71c1015e1f"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty"
           ],
-          "658fc80d88f27b493fd6f6846712fc7869a3dc71e12b5c4944385a909ca59b00"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def"
-          ],
-          "f58f928db18cb7549787c074bbc7fd6a15ec005a4081e22435c8097ab79d662a"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex"
-          ],
-          "94b8f49361521f5d814df927422379ce74e11af372d4337df0279543c3e0615d"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty"
-          ],
-          "49426425d82407dc702c77236fdeb4b82568ebb9566b8dd849bcfbf9eb9644de"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def"
-          ],
-          "62c3a2892e6acc3d94b1e8a50ecc2a11a16565ddee3f68006a84822eb5b93a5d"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty"
-          ],
-          "1bd5d42025520bef74f8808af99cf3f3be7d2e3774b9931bf85c11ba81bb6cab"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm"
-          ],
-          "8db0355b7f542b672e33e2cf79ff50a8b99cf2fdba851d65bc223255a4fbbb67"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty"
-          ],
-          "618f4301b971a128f247f7eb388ec4b1ac0d7293a22ce89fb48af2a2752f1fca"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty"
-          ],
-          "a23ca4bacbb60ff7b5aa1052e2a3281cebfcd06ea2e615ad14d12c1786204b4d"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def"
-          ],
-          "6a7e38ed95bd5e4535865f316f09642cc2a5fc353b7f4f98d28e315c86aabfb7"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty"
-          ],
-          "70838b061b56569dd3ed9f339b1bdd1c78ba185de49f27ceae331c97f48b5986"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish.ldf"
-          ],
-          "896a6fcbe395bd4cb0bd1eed482fff308772650833515f5570b9eca552f083d5"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg"
-          ],
-          "7874c99976a0d0872bc8317d6608d9f16b3f166f6ed2fa68e44448bd5895b959"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty"
-          ],
-          "1d9f36f4e9674bef594a47cac7d5781e9f7e0c7c8edf9f72769f4dc6f10d1b5f"
-        ],
-        [
-          "file",
-          [
-            "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map"
-          ],
-          "04783c301b4b75c028f255dfe69ef7d88fe0f642a0638d6047ebf217b36dbff2"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty"
-          ],
-          "127b79134458901760ceb1ca54963fba93c758b5911ddd1684afffbc2e1aca2f"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty"
-          ],
-          "57beb2c684bafae5e22ed8ebf3873d279c68038200b1d47703f88d87cd2ea6d2"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/web2c/texmf.cnf"
-          ],
-          "ced214c26baca02d79428fd1e7f3acf59e8d60436e28bc269c3fde93e1f70bab"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty"
-          ],
-          "dab8b0e621267acfd89736cf97bdcc02647c545c0719c4997be8a7d1bf98f9c3"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg"
-          ],
-          "a3529ccdadc8248b4c5d7c34ceea53bdc1509b54f18a192ad51b924bd297d8df"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf"
-          ],
-          "5a636696c3bb3c13820ebbcf667d5d38756109ac50247533c1b8608a4c9dd030"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty"
-          ],
-          "c81d757922e71faf8e524fba5d643cb7bf183500eb069bdc57a99a9891aa8bfa"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex"
-          ],
-          "d956774b1d33cbb50e6756a9007533d1ba7435271376251fd2f8139aa9efd623"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf"
-          ],
-          "9ce08b87987a8e69bcffbb4625c97bb7ebdb95062e72047a114087e730720bdb"
-        ],
-        [
-          "file",
-          [
-            "/var/lib/texmf/web2c/pdftex/pdflatex.fmt"
-          ],
-          "91b035f4dab761a8a4479fcf4cd782ccb636c84633b2256fe6b4b99607f4b582"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty"
-          ],
-          "3fe694a5406f84847143e56ba1841385364277cfe7694a9f4bc0072ca8656abc"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty"
-          ],
-          "da1e0ad80baeea2859059307358257c506069c91bdd29fde9e12ee957cc5db44"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty"
-          ],
-          "03c03deec2892ed726758e9ff67981d4d7e15f542e3ea8628d9081a09ad9a14e"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/paracol/paracol.sty"
-          ],
-          "65e7101b50043a3abfc6a1b576e9dd7b138e5eaa18cf5e5d4255b33bc3eb61b6"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def"
-          ],
-          "7e1b10ddd9adba2701716260b66f06007cf80b52d804044dd2571f51cfea0b14"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm"
-          ],
-          "94b2b0e52f49765f3eeb105695518c0fe92c2607dadc598198fd4dc3854e9555"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-utf8.ldf"
-          ],
-          "dfba4accf29f350149d1a51e6da47c1e875fe8652fe3fc2f028e3f0f9cfbe9e4"
+          "3d2226e3d68b4255061baa496cc9cbc107816a7d364720c1bd8c83dccb047b64"
         ],
         [
           "file",
@@ -804,30 +587,37 @@
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty"
           ],
-          "77e7c2421a06900f158416e090665069dd724a6e0c605cd2a1838c7d3b7944d2"
+          "da1e0ad80baeea2859059307358257c506069c91bdd29fde9e12ee957cc5db44"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty"
           ],
-          "70100828f084208eae5f60de32ac38b1b48c6ab00b58069423bc805ffc1d26ef"
+          "1d9f36f4e9674bef594a47cac7d5781e9f7e0c7c8edf9f72769f4dc6f10d1b5f"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty"
           ],
-          "1ac9e7892621c020cfb22f081821b11625eb93c7c32fa47fd3e32a31c072c9d4"
+          "a68d29397c0119455497d507e4fea6f1227b3520d608262286f1891be0145d64"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty"
+            "/usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb"
           ],
-          "196f2a7038e1727c4088a015bf11cac88abfedc5b7ee5eca65f44ab91dbac415"
+          "1454da705cda53cb4ae21f456159164d756b35731a46b943c56ab1fe476c53c5"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty"
+          ],
+          "6617975cf676f10819973baa76cdbb2d01611fa48d4d270c3e357ba8e849955d"
         ],
         [
           "file",
@@ -839,233 +629,65 @@
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty"
           ],
-          "a73003b4bb2dc8a814533ddbd31600e6626827799c2a465d03ef42e7a33fa71b"
+          "5420457e8d55f6c83eb4c62be750cb6a0302241dafb3f0a82e262b8ac783b0ba"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty"
           ],
-          "72a45b7f07d85a66605bbec6c0f783527995722e15c3bc5963b3048b9831bbc0"
+          "df4f6bf223f5d40d1f47a416770ea3f9cefff70c7fc8d37999c669929633769f"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty"
+            "document.bbl"
           ],
-          "121f45cee5e0a32583909763f95b1aae2c8f0d0a086def03fd958ebdad5e5c02"
+          "4463124b8a763eb0433f5f635810b9e7e0ff172d55886fb7f48e527e5e20ad98"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty"
           ],
-          "3a5e77870557530b7bef361a2d5af7346121807e335dcc291cb6fb6a773b569a"
+          "a8948d15987e13761cb2d97d05703051013779963336094044b5f1993057c1fb"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish.ldf"
           ],
-          "b2be480937c05805a1143036c8769834c30de9772f2db3335f20f8e0eb61b29c"
+          "896a6fcbe395bd4cb0bd1eed482fff308772650833515f5570b9eca552f083d5"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty"
+            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm"
           ],
-          "027b292408d989f370f160c9b5f5b89641f69cd19027b0342beb022dd74d7c83"
+          "5a8d22bbac97332450c06d766ea8f4cac97ebe0c941da9d473a5d422b8bb0667"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty"
+            "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb"
           ],
-          "63cb7c6ae98653209d8f77ee842849676930fd694bc45a771309e0486c1cd9b5"
+          "2ef9d47303d25f3c9553a43255dae8c39160e130ad5ed34444e39dee03d796a1"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty"
           ],
-          "15b93ce4099a9cd0f542429809cdfbd1555ec7bb631037537c10c4b54ac7116b"
+          "5de5c8caff4e1e518bca646ebc0eb0ce2cd3886c0bf833f808ffcbef37aa6ab1"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo"
+            "document.tex"
           ],
-          "1b3b003c20cb08d46f2b8d32d817ef71ab0b8a2abf74a95b3431b1fdc16555aa"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty"
-          ],
-          "70420ed5dc9136c6b689eae14406f1dfdb146ebcc9d16701e2501c29e9772c26"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm"
-          ],
-          "a48198d87f9b9f90d652b8f41d41dbb3978a44669225c89394a4620031ace6a2"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm"
-          ],
-          "280bb0113e2586156cd9414aab226588bb0a4d0fdf71fe6c6475af70d9b61eef"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb"
-          ],
-          "7f3f19f61452892a29d06af2836331ca78aed29390914d294f7a440d35927142"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty"
-          ],
-          "a62143db8b3bf1e52082c32e3feb7450bc90c000c6c48a38fa51cf96a6075eae"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty"
-          ],
-          "8965b40ac1c67d5a8af4a42ebab9e6a5ca42c55e69b68f5b230d527fbe3f1e58"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty"
-          ],
-          "05482bdac352028d50d737fa854a17db94af9147bd07cc4c3d439686ba01ad50"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def"
-          ],
-          "fa3832daa966cdddbc19f8a974c9a73be57f7e50ec8ffc9ef1c2a514116b5bfe"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty"
-          ],
-          "d04b1a412d4d9910ccd61e45a6bb26ed5895f0976e19671d577c48e39f39fdf9"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty"
-          ],
-          "1343ba1b10b245bfd199c22947249af1d756808690c7811c90f07fe0a3772080"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def"
-          ],
-          "2f61dd99e83b8c04ede33d738564aa335c82132b1f0dcf276b98435d7931d28e"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm"
-          ],
-          "777c0e0875a140eb83fa3feb9067870a60f640c6af398c6f534761691b2f57e8"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty"
-          ],
-          "d9c0658af3319bfd9edb778a8bbc4e7e96078769eb79f599c2244649e5ec365b"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/brazil.ldf"
-          ],
-          "5cc3cc0024662fae3101c02276421df01492b1bd877e1e2370d35e5660ebb683"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty"
-          ],
-          "ac51da6d4dc7fa924548314952705f04110e143eba3b1116f55959e5a90e56d9"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def"
-          ],
-          "04c579d39644032d49bfd805eaef8bc725f1603957d34731f11ddbf6ce684e78"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty"
-          ],
-          "dea8f29e6e65184552dd6cb62e111232c117f7be6d0983a5d6261e420f9cd272"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty"
-          ],
-          "8acaa03eda19a8158780356701e905e354e1dc47dc736e6e26fc860c12a15e14"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty"
-          ],
-          "7bbdc7b1100b8edba676f431b44d4c8363c2f8f6771fcca884003878b5282e07"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii"
-          ],
-          "5dd3675b88c7b61d3703e6bf35ed75623acc6b163dff7b1477b485cee8ad71cb"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty"
-          ],
-          "1518422cc09b174c47105e41e3606260714b8f99049e3005a87f3c2ce034d157"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty"
-          ],
-          "4af1b021af86649d926eb025a92fa4a3603f0d65893ccdb6fb756b5a16810a51"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty"
-          ],
-          "4d60586c923b5248240426f700ad97a4321398ef10f720a5954ce55b40aaaca6"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg"
-          ],
-          "09874323d2cab7ee749f0420961a5a3971841752ef3379b2f2a4f09295eefb84"
+          "dbefb47f3113b110028ef1b6cb7834543ec7d88709902dbfc6e923932e3735e9"
         ],
         [
           "file",
@@ -1077,114 +699,79 @@
         [
           "file",
           [
+            "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty"
+          ],
+          "a23ca4bacbb60ff7b5aa1052e2a3281cebfcd06ea2e615ad14d12c1786204b4d"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/paracol/paracol.sty"
+          ],
+          "65e7101b50043a3abfc6a1b576e9dd7b138e5eaa18cf5e5d4255b33bc3eb61b6"
+        ],
+        [
+          "file",
+          [
             "document.aux"
           ],
-          "4da02d3a572e099ce6260259da4693cc7f92206827f123a116840c048b4fc395"
+          "fc7d7aa963b89484ed0dcc3d583db46f5d18c52069014f6a358e37cae82c528b"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty"
           ],
-          "5420457e8d55f6c83eb4c62be750cb6a0302241dafb3f0a82e262b8ac783b0ba"
+          "c206a966a49fe47d1c59723d116dac95994468272cda392a56cf7379519c460f"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty"
+            "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map"
           ],
-          "360ca58274a31577688a0e8227f44ca64579bc0b759d9afc5db76b596e41b0cc"
+          "d9693993efdc7d0b9ab3df777589995d43e24eeae95f12b6a230a19caadeaa42"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-english/glossaries-english.ldf"
+            "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def"
           ],
-          "db1a846bc3788d06bfbee0163fd632ca2d72f2c5dc90de2b39dc52bf3d416584"
+          "9617358386bec1691faec14fd624634525f105505a5f9573c47bd4f617ddcb5d"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def"
           ],
-          "a17e47f93a2a5d35763dc9f5a026184c16fad432ef5d77a9c9abf2ad39b1b92c"
+          "7e1b10ddd9adba2701716260b66f06007cf80b52d804044dd2571f51cfea0b14"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty"
+            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm"
           ],
-          "26f057c1673e58d8ee6ce0031c795e24ed638db9a342ca75b7234ec0de439682"
+          "280bb0113e2586156cd9414aab226588bb0a4d0fdf71fe6c6475af70d9b61eef"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty"
+            "/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf"
           ],
-          "16dffe967174f21dbd52ef849bcb74741109f3ce5bc68b881f1ce4aef3133b2a"
+          "5a636696c3bb3c13820ebbcf667d5d38756109ac50247533c1b8608a4c9dd030"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty"
+            "body.tex"
           ],
-          "b4968a9f4fbc33351ee1cf94115632b18abbc1b72a98da75eb6188a514f6b5f5"
+          "8cfc181a6ac22dfd0ba587b45e6d3fbd26bf5f19e3c6033f4a62939e014b91b9"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty"
+            "/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty"
           ],
-          "7f25c33d4010066ff2eed0286f62854867698b06d10ebad93b1b1ab96d12f936"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex"
-          ],
-          "27c2623a2799a8b3c87ebc8b4c5e01e46286907eff3d5ffce66ad563949c7a98"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty"
-          ],
-          "c42f0c2628dc5fbd95b535cf8cd3cc964347653c099d38c0d416f896d84e8240"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty"
-          ],
-          "8c3e23b8bb7d940ff26cb0cf96e0151f540acf55020dc3c1aa8bcdb2eb66305c"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty"
-          ],
-          "97583abfe122fa9d3e28bf706065b06f4094cedbf9f34da5874774071fd651cc"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty"
-          ],
-          "af5c7196c69dc9d28225189169b60c9b9039125bc1756c04d54886f0a3e1891e"
-        ],
-        [
-          "file",
-          [
-            "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm"
-          ],
-          "87f2d8981927644cbecaf3d639e96e348ea4e7be49d8804468bd8ba9ff3f5244"
-        ],
-        [
-          "file",
-          [
-            "document.tex"
-          ],
-          "e2bdf1ec9156813f0a8fb3e4bb729067dcc2b68107c4efcf2c344bfe420d3590"
+          "5c33cb1717024ebe00adb88514357ab394ae5f9433418fd0442ba8c64462db14"
         ],
         [
           "file",
@@ -1196,16 +783,51 @@
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty"
+            "/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty"
           ],
-          "749abbb9978afda5d02f732c18435591d54a430df9e58abc53abe9cc6e97d3fb"
+          "8c3e23b8bb7d940ff26cb0cf96e0151f540acf55020dc3c1aa8bcdb2eb66305c"
         ],
         [
           "file",
           [
-            "/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty"
+            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm"
           ],
-          "c839306c4e84cbdfe15b0f44295d30f3ffeae9880a7924e9defd1d6b38eddbd2"
+          "777c0e0875a140eb83fa3feb9067870a60f640c6af398c6f534761691b2f57e8"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty"
+          ],
+          "360ca58274a31577688a0e8227f44ca64579bc0b759d9afc5db76b596e41b0cc"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty"
+          ],
+          "1343ba1b10b245bfd199c22947249af1d756808690c7811c90f07fe0a3772080"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls"
+          ],
+          "257301336354a8808a88d416b2b91de1fcc19d1c7b8e73bac5721b7d596f6769"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty"
+          ],
+          "d04b1a412d4d9910ccd61e45a6bb26ed5895f0976e19671d577c48e39f39fdf9"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf"
+          ],
+          "d1976584168145276587ca1b4f3b6df7c209c8acedf0bafe6ce83a42fb99cd36"
         ],
         [
           "file",
@@ -1217,16 +839,497 @@
         [
           "file",
           [
-            "document.pdf"
+            "/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty"
           ],
-          "7f7c58a0d03975862ae5d2786a09172628075b6d2a0dc12834bf594e6de33570"
+          "26ab10fd43fd5a90f98bcbed3a99978808da8878eb73835db4e0346371aee41e"
         ],
         [
           "file",
           [
-            "./document.fls"
+            "/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex"
           ],
-          "e28ad05a5e8579c153a53549c768238e9b07ad3c185d509993bad5ee8bc9e1e8"
+          "94b8f49361521f5d814df927422379ce74e11af372d4337df0279543c3e0615d"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty"
+          ],
+          "8c4c4fcb36c5cf2c3ff626211454be00d5eebc98378af9cde6df9e056d486f92"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty"
+          ],
+          "4493ccc2feb545e3d43e5c9330a12f3c9188a44172cce0946bce3e8d71ff9e59"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def"
+          ],
+          "6a7e38ed95bd5e4535865f316f09642cc2a5fc353b7f4f98d28e315c86aabfb7"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty"
+          ],
+          "3fe694a5406f84847143e56ba1841385364277cfe7694a9f4bc0072ca8656abc"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty"
+          ],
+          "77e7c2421a06900f158416e090665069dd724a6e0c605cd2a1838c7d3b7944d2"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty"
+          ],
+          "7f25c33d4010066ff2eed0286f62854867698b06d10ebad93b1b1ab96d12f936"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty"
+          ],
+          "49426425d82407dc702c77236fdeb4b82568ebb9566b8dd849bcfbf9eb9644de"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty"
+          ],
+          "c839306c4e84cbdfe15b0f44295d30f3ffeae9880a7924e9defd1d6b38eddbd2"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm"
+          ],
+          "94b2b0e52f49765f3eeb105695518c0fe92c2607dadc598198fd4dc3854e9555"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf"
+          ],
+          "6c4ef8d50ce7d7cab9f9a7f72497085840c349a022a493b76e27f54e0934430d"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm"
+          ],
+          "2cd0884fb2fe1c3ad5a318216f5b70dbd5581a5a2f7ffcc0610f0b73a766cb07"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-english/glossaries-english.ldf"
+          ],
+          "db1a846bc3788d06bfbee0163fd632ca2d72f2c5dc90de2b39dc52bf3d416584"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def"
+          ],
+          "62c3a2892e6acc3d94b1e8a50ecc2a11a16565ddee3f68006a84822eb5b93a5d"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty"
+          ],
+          "749abbb9978afda5d02f732c18435591d54a430df9e58abc53abe9cc6e97d3fb"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty"
+          ],
+          "6557a41319a2fa2fbe021b8f33cdc327f11c1088862f18d727f5b43971e62b05"
+        ],
+        [
+          "file",
+          [
+            "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map"
+          ],
+          "04783c301b4b75c028f255dfe69ef7d88fe0f642a0638d6047ebf217b36dbff2"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty"
+          ],
+          "4d60586c923b5248240426f700ad97a4321398ef10f720a5954ce55b40aaaca6"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg"
+          ],
+          "10db2171b6e267720299c10b9e84f92c5cf069941dbfe3760e198304e49d5324"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty"
+          ],
+          "815582a920087c3a3c7dbf4d357b22db05e087f87b7fdcadf606d9f1fe750cb4"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty"
+          ],
+          "b3f0e56366c11b85dae521f9a48a6fd415dec1ce8c83152fde813a9f64445b49"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty"
+          ],
+          "a217353d233e54e8c0944d87ea2924ec1f20d849a35b749698df03884856e5e3"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty"
+          ],
+          "027b292408d989f370f160c9b5f5b89641f69cd19027b0342beb022dd74d7c83"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty"
+          ],
+          "a17e47f93a2a5d35763dc9f5a026184c16fad432ef5d77a9c9abf2ad39b1b92c"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo"
+          ],
+          "1b3b003c20cb08d46f2b8d32d817ef71ab0b8a2abf74a95b3431b1fdc16555aa"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty"
+          ],
+          "b6a1d70279e610f9d42443e7f4479b785e8abb75f6a91c502459694285b41eec"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty"
+          ],
+          "5cf523f1f8f87a365b9b2d16d79e62e0363a833dfdfa889e99f5251064661e83"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty"
+          ],
+          "d088c75e16c3c9f6b979a59571b96e5dd9e487a720bc74591580878388b82918"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty"
+          ],
+          "a7db2834e02bd11be0e62a3be15e3dc293ba1be9196f19b29b9d98bfdbeb7514"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty"
+          ],
+          "03c03deec2892ed726758e9ff67981d4d7e15f542e3ea8628d9081a09ad9a14e"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty"
+          ],
+          "8acaa03eda19a8158780356701e905e354e1dc47dc736e6e26fc860c12a15e14"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def"
+          ],
+          "f58f928db18cb7549787c074bbc7fd6a15ec005a4081e22435c8097ab79d662a"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty"
+          ],
+          "63cb7c6ae98653209d8f77ee842849676930fd694bc45a771309e0486c1cd9b5"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg"
+          ],
+          "7874c99976a0d0872bc8317d6608d9f16b3f166f6ed2fa68e44448bd5895b959"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty"
+          ],
+          "b4729967ca572a3fbbcdc36f0e0764a53ae0855a0b7c3e29222ca119c054bd6e"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty"
+          ],
+          "1518422cc09b174c47105e41e3606260714b8f99049e3005a87f3c2ce034d157"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty"
+          ],
+          "c81d757922e71faf8e524fba5d643cb7bf183500eb069bdc57a99a9891aa8bfa"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty"
+          ],
+          "7bbdc7b1100b8edba676f431b44d4c8363c2f8f6771fcca884003878b5282e07"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty"
+          ],
+          "1f20fe67c85a9636cab892d125f4722e6ba96aa459c2b189c0228912c5d4b575"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty"
+          ],
+          "4af1b021af86649d926eb025a92fa4a3603f0d65893ccdb6fb756b5a16810a51"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/tracklang/tracklang.tex"
+          ],
+          "a43473475c0a8d8bee9f53a7e79cf2c141f21feb713923f0fab9623d091f10f4"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty"
+          ],
+          "70838b061b56569dd3ed9f339b1bdd1c78ba185de49f27ceae331c97f48b5986"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty"
+          ],
+          "f6a90b775149ecba1a7868d6fa9789adf6ac0a6c1170d3990bb1004f6d7cb77b"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc"
+          ],
+          "0b8a4865363ad2acb3718af53a43a8b1a16a143900bba8e672813d4a6e07b4fc"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty"
+          ],
+          "658fc80d88f27b493fd6f6846712fc7869a3dc71e12b5c4944385a909ca59b00"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-pt-BR.ldf"
+          ],
+          "8173d6d09fe8ccc4692610ab509e6c254a2741709adbee1435364fe4ff28934d"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty"
+          ],
+          "4c4ffabeddfac94f0338b6c53c6c66446c16e3674482428752a12b8ecd19137e"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/caption/caption-memoir.sto"
+          ],
+          "2caa0c998effa41dd47571ac3b40061780ee2e0736a2108e1c6935cfce8c441a"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty"
+          ],
+          "cdac603619a4c129511ef8a3abfbb4d2068b1bb67626cb30568baa0ceb26aea2"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd"
+          ],
+          "6471f86a126b97f92678a4dede1b38c4aa7dd2c68bf1085b96c6db4f793e0321"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty"
+          ],
+          "c42f0c2628dc5fbd95b535cf8cd3cc964347653c099d38c0d416f896d84e8240"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty"
+          ],
+          "f358a7e17ee9fac6db762969d720f0d4a5f16b3e498349a80cc9ae4470c62adf"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty"
+          ],
+          "00c8665544687fea57c27a6be454f832c5190e710545102ef0507238bad1365e"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def"
+          ],
+          "04c579d39644032d49bfd805eaef8bc725f1603957d34731f11ddbf6ce684e78"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb"
+          ],
+          "f9a0c528b42d2ded2884e31cf1d225b81739ca9b17a0e7cb362fad404ce0aedf"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty"
+          ],
+          "3ef84c3b0794f630fef909af51b9d72f2a1fafce921803a73909a2caab7d323b"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty"
+          ],
+          "97583abfe122fa9d3e28bf706065b06f4094cedbf9f34da5874774071fd651cc"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty"
+          ],
+          "8965b40ac1c67d5a8af4a42ebab9e6a5ca42c55e69b68f5b230d527fbe3f1e58"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty"
+          ],
+          "4a728ad40dd3708c44cb418f4a19bf0ba4f32fdbfa35ee3a5ad205352d5497b6"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii"
+          ],
+          "5dd3675b88c7b61d3703e6bf35ed75623acc6b163dff7b1477b485cee8ad71cb"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty"
+          ],
+          "57beb2c684bafae5e22ed8ebf3873d279c68038200b1d47703f88d87cd2ea6d2"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-utf8.ldf"
+          ],
+          "dfba4accf29f350149d1a51e6da47c1e875fe8652fe3fc2f028e3f0f9cfbe9e4"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty"
+          ],
+          "ac51da6d4dc7fa924548314952705f04110e143eba3b1116f55959e5a90e56d9"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty"
+          ],
+          "af5c7196c69dc9d28225189169b60c9b9039125bc1756c04d54886f0a3e1891e"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2.cls"
+          ],
+          "0001d6b6c341ff7e2811b87fb8a921aae91ff3afd626e8b07d1478c6eaae4119"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty"
+          ],
+          "769ed7de440244502eed14a51ee96f1dda3168411a7c9245d9cc10d7e36850ac"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty"
+          ],
+          "b2be480937c05805a1143036c8769834c30de9772f2db3335f20f8e0eb61b29c"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty"
+          ],
+          "d9c0658af3319bfd9edb778a8bbc4e7e96078769eb79f599c2244649e5ec365b"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm"
+          ],
+          "1ce8af37ed38e93940829d3540e494eaaddc5201758d036b9074467e70a738dc"
+        ],
+        [
+          "unknown_input",
+          [],
+          1713723509.1745372
         ],
         [
           "file",
@@ -1245,31 +1348,52 @@
         [
           "file",
           [
-            "document.ist"
+            "document.log"
           ],
-          "d5607b153d7545a7f64b778faa508dc0b52983002c1a85555daa7596536a2fd2"
+          "a8eaef6f026972335af699764f65cd2217c6198213147c9d6f5c53f57ae82d54"
         ],
         [
           "file",
           [
-            "document.log"
+            "document.aux"
           ],
-          "94e5ccf25d8d0b698ae3ff12d6ee157b010f331b1ade5c1b4eb7edff0ca89f7b"
+          "b3a5134592b68983431c8bd8c90011742fe372ea8d8b5ef716911b788c02ef55"
+        ],
+        [
+          "file",
+          [
+            "document.pdf"
+          ],
+          "7aa475c7d943465a1225a32987c9925d814cdd357ebd61941af4d55c33789b0d"
+        ],
+        [
+          "file",
+          [
+            "./document.fls"
+          ],
+          "6e1e743722ca8ce44881fa4007bd1b236c1b932e274ab54344d924369592aee8"
+        ],
+        [
+          "file",
+          [
+            "document.ist"
+          ],
+          "9325e9be140cf42caa0b473df6120e5af9443e897a40eaa3f92a40deb770ba2a"
         ]
       ],
       "output_files": {
-        "document.pdf": "7f7c58a0d03975862ae5d2786a09172628075b6d2a0dc12834bf594e6de33570",
-        "./document.fls": "e28ad05a5e8579c153a53549c768238e9b07ad3c185d509993bad5ee8bc9e1e8",
         "document.glo": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "document.idx": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "document.ist": "d5607b153d7545a7f64b778faa508dc0b52983002c1a85555daa7596536a2fd2",
-        "document.aux": "4da02d3a572e099ce6260259da4693cc7f92206827f123a116840c048b4fc395",
-        "document.log": "94e5ccf25d8d0b698ae3ff12d6ee157b010f331b1ade5c1b4eb7edff0ca89f7b"
+        "document.log": "a8eaef6f026972335af699764f65cd2217c6198213147c9d6f5c53f57ae82d54",
+        "document.aux": "b3a5134592b68983431c8bd8c90011742fe372ea8d8b5ef716911b788c02ef55",
+        "document.pdf": "7aa475c7d943465a1225a32987c9925d814cdd357ebd61941af4d55c33789b0d",
+        "./document.fls": "6e1e743722ca8ce44881fa4007bd1b236c1b932e274ab54344d924369592aee8",
+        "document.ist": "9325e9be140cf42caa0b473df6120e5af9443e897a40eaa3f92a40deb770ba2a"
       },
       "extra": {
         "jobname": "./document",
         "outname": "./document.pdf",
-        "status": 0
+        "status": 1
       }
     },
     "latex_commit::document.tex": {
@@ -1285,15 +1409,117 @@
       ],
       "output_files": {},
       "extra": null
+    },
+    "bibtex::document.tex": {
+      "deps": [
+        [
+          "args",
+          [],
+          [
+            "bibtex",
+            "document.aux"
+          ]
+        ],
+        [
+          "cwd",
+          [],
+          "."
+        ],
+        [
+          "env",
+          [
+            "TEXMFOUTPUT"
+          ],
+          null
+        ],
+        [
+          "env",
+          [
+            "BSTINPUTS"
+          ],
+          null
+        ],
+        [
+          "env",
+          [
+            "BIBINPUTS"
+          ],
+          null
+        ],
+        [
+          "env",
+          [
+            "PATH"
+          ],
+          "/home/andre/.pyenv/versions/3.12.2/bin:/home/andre/.pyenv/libexec:/home/andre/.pyenv/plugins/python-build/bin:/home/andre/.pyenv/plugins/pyenv-virtualenv/bin:/home/andre/.pyenv/plugins/pyenv-update/bin:/home/andre/.pyenv/plugins/pyenv-doctor/bin:/home/andre/.pyenv/plugins/pyenv-virtualenv/shims:/home/andre/.pyenv/shims:/home/andre/.pyenv/bin:/usr/local/cuda-11.8/bin:/home/andre/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/andre/.local/bin"
+        ],
+        [
+          "auxfile",
+          [
+            "./document.aux"
+          ],
+          "9231e62540da77c174e184d06cd55e86788cb25f42c295a8b2cab969fde7bc13"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst"
+          ],
+          "eda0ece7abb368337ddb9da68c326a1f733876f1143ff803e588f6c736d3800b"
+        ],
+        [
+          "file",
+          [
+            "/usr/share/texlive/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib"
+          ],
+          "4249071986296d20a3bc90113258e52383e6cbabdf40671627effc8f91a5f37c"
+        ],
+        [
+          "file",
+          [
+            "bibliografia.bib"
+          ],
+          "9363df918b1826ed5127eeda20e3dac0292549c41765b6d2631859f7b923718a"
+        ],
+        [
+          "file",
+          [
+            "./document.bbl"
+          ],
+          "4463124b8a763eb0433f5f635810b9e7e0ff172d55886fb7f48e527e5e20ad98"
+        ],
+        [
+          "file",
+          [
+            "./document.blg"
+          ],
+          "c1c5b1ad6f15eaa6342169ced1c48b8ad7f7084d4e318cbd05b6634f8585e2ef"
+        ]
+      ],
+      "output_files": {
+        "./document.bbl": "4463124b8a763eb0433f5f635810b9e7e0ff172d55886fb7f48e527e5e20ad98",
+        "./document.blg": "c1c5b1ad6f15eaa6342169ced1c48b8ad7f7084d4e318cbd05b6634f8585e2ef"
+      },
+      "extra": {
+        "outbase": "./document",
+        "status": 0,
+        "inputs": [
+          "/usr/share/texlive/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst",
+          "/usr/share/texlive/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib",
+          "bibliografia.bib"
+        ]
+      }
     }
   },
   "clean": {
-    "document.log": "94e5ccf25d8d0b698ae3ff12d6ee157b010f331b1ade5c1b4eb7edff0ca89f7b",
-    "./document.fls": "e28ad05a5e8579c153a53549c768238e9b07ad3c185d509993bad5ee8bc9e1e8",
-    "document.aux": "4da02d3a572e099ce6260259da4693cc7f92206827f123a116840c048b4fc395",
-    "document.pdf": "7f7c58a0d03975862ae5d2786a09172628075b6d2a0dc12834bf594e6de33570",
+    "document.log": "a8eaef6f026972335af699764f65cd2217c6198213147c9d6f5c53f57ae82d54",
+    "./document.fls": "6e1e743722ca8ce44881fa4007bd1b236c1b932e274ab54344d924369592aee8",
+    "document.aux": "b3a5134592b68983431c8bd8c90011742fe372ea8d8b5ef716911b788c02ef55",
+    "document.pdf": "7aa475c7d943465a1225a32987c9925d814cdd357ebd61941af4d55c33789b0d",
     "document.idx": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "document.ist": "d5607b153d7545a7f64b778faa508dc0b52983002c1a85555daa7596536a2fd2",
-    "document.glo": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "document.ist": "9325e9be140cf42caa0b473df6120e5af9443e897a40eaa3f92a40deb770ba2a",
+    "document.glo": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "./document.bbl": "4463124b8a763eb0433f5f635810b9e7e0ff172d55886fb7f48e527e5e20ad98",
+    "./document.blg": "c1c5b1ad6f15eaa6342169ced1c48b8ad7f7084d4e318cbd05b6634f8585e2ef"
   }
 }

@@ -1,4 +1,4 @@
-\documentclass[        
+\documentclass[
     a4paper,          % Tamanho da folha A4
     12pt,             % Tamanho da fonte 12pt
     section=TITLE,    % Todas as secoes devem ter caixa alta
@@ -7,11 +7,10 @@
     english,          % Hifenizacoes em ingles
     spanish,          % Hifenizacoes em espanhol
     brazil,           % Ultimo idioma eh o idioma padrao do documento
-    fleqn             % Comente esta linha se quiser centralizar as equacoes. Comente também a linha 65 abaixo
+    fleqn             % Comente esta linha :wse quiser centralizar as equacoes. Comente também a linha 65 abaixo
 ]{abntex2}
 
 \counterwithout{section}{chapter}
-
 \input{preambulo.tex}
 
 \begin{document}	
@@ -30,10 +29,11 @@
 
   \noindent \textbf{PALAVRAS-CHAVE:} Termos e Palavras 1. Termos e Palavras 2. Termos e Palavras 3.
 
-  \section{INTRODUÇÃO}
+  \input{body.tex}
 
-  A história do ensino de línguas, como aponta Richards e Rodgers (2001, p. 3), é caracterizada pela busca de formas mais eficientes de ensinar uma segunda língua. Embora possa-se dizer que esse campo de conhecimento possui séculos de existência — inicialmente dominados pela tradição que herdou do ensino de latim os métodos e procedimentos de ensino de línguas — foi, segundo Richard e Rodgers (2001, p. 15, tradução nossa) no período entre os anos 1950 e 1980 que a busca por formas mais eficientes de ensinar uma segunda língua intensificou-se. Isso se deu, em grande parte, pela importância que a língua inglesa adquiriu como meio de instrução na sociedade nesse período, marcada por um intenso processo de globalização e cujas comunicações foram amplamente transformadas pelo advento da Tecnologia da Informação e Comunicação (TIC), aumentando portanto a demanda por eficiência nesse ramo. As transformações nos campos da linguística, linguística aplicada, psicologia do desenvolvimento e psicologia da educação também foram responsáveis pelo embasamento teórico de uma série de novas formas de pensar o ensino de línguas, além de retirar tração e suportar antigas formas de pensar esse mesmo campo. A união desses aspectos supracitados fomentou então um contexto ideal para o surgimento de novas formas de realizar a prática docente na área de línguas. 
+  \section{REFERÊNCIAS}
 
-  Nesse contexto do surgimento de novos métodos de ensino de línguas surgiu a Abordagem Lexical, desenvolvida por Michael Lewis no início dos anos 1990. O texto seminal de Lewis surgiu como uma revolução no campo da linguística aplicada, sobretudo no ensino de língua estrangeira.
+  \bibliography{bibliografia.bib}
+  \bibliographystyle{abntex2-alf} % Estilo de bibliografia ABNT alfabético
 
 \end{document}

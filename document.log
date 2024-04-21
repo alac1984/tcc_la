@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  6 APR 2024 23:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  21 APR 2024 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1064,6 +1064,26 @@ Package: supertabular 2020/02/02 v4.1g the supertabular environment
 Package: glossary-tree 2021/11/01 v4.49 (NLCT)
 \glstreeindent=\skip300
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
+\minimumbiblabelwidth=\skip301
+\ABCIauxlen=\skip302
+\c@ABCIaux=\count402
+\c@ABCImax=\count403
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\biblabelsep=\skip303
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks49
+)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
@@ -1082,8 +1102,8 @@ Package caption Info: memoir document class detected.
 File: caption-memoir.sto 2020/10/10 v2.1 Adaption of the caption package to the
  memoir document class (AR)
 ))
-\c@caption@flags=\count402
-\c@continuedfloat=\count403
+\c@caption@flags=\count404
+\c@continuedfloat=\count405
 Package caption Info: changepage package is loaded.
 \caption@adjustwidth@hsize=\dimen293
 \caption@adjustwidth@linewidth=\dimen294
@@ -1134,23 +1154,23 @@ LaTeX Info: Redefining \hbar on input line 50.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/paracol/paracol.sty
 Package: paracol 2018/12/31 v1.35 
-\pcol@currcol=\count404
-\pcol@nextcol=\count405
-\pcol@ncol=\count406
-\pcol@ncolleft=\count407
-\pcol@page=\count408
-\pcol@basepage=\count409
-\pcol@toppage=\count410
-\pcol@footnotebase=\count411
-\pcol@nfootnotes=\count412
-\pcol@mcid=\count413
+\pcol@currcol=\count406
+\pcol@nextcol=\count407
+\pcol@ncol=\count408
+\pcol@ncolleft=\count409
+\pcol@page=\count410
+\pcol@basepage=\count411
+\pcol@toppage=\count412
+\pcol@footnotebase=\count413
+\pcol@nfootnotes=\count414
+\pcol@mcid=\count415
 \pcol@prevdepth=\dimen295
 \pcol@colht=\dimen296
 \pcol@textfloatsep=\dimen297
 \pcol@lrmargin=\dimen298
 \pagerim=\dimen299
-\pcol@topskip=\skip301
-\belowfootnoteskip=\skip302
+\pcol@topskip=\skip304
+\belowfootnoteskip=\skip305
 \pcol@topfnotes=\box77
 \pcol@prespan=\box78
 \pcol@rightpage=\box79
@@ -1158,7 +1178,7 @@ Package: paracol 2018/12/31 v1.35
 \pcol@tempboxa=\box81
 \pcol@tempboxb=\box82
 \pcol@colorins=\insert247
-\pcol@everyvbox=\toks49
+\pcol@everyvbox=\toks50
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
@@ -1175,26 +1195,26 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count414
+\pdfpages@includegraphics@status=\count416
 \AM@pagebox=\box83
-\AM@global@opts=\toks50
-\AM@pagecnt=\count415
-\AM@toc@title=\toks51
-\c@AM@survey=\count416
+\AM@global@opts=\toks51
+\AM@pagecnt=\count417
+\AM@toc@title=\toks52
+\c@AM@survey=\count418
 \AM@templatesizebox=\box84
 )
 \glswrite=\write4
 \glo@main@file=\write5
 \openout5 = `document.glo'.
 
-Package glossaries Info: Writing glossary file document.glo on input line 50.
+Package glossaries Info: Writing glossary file document.glo on input line 51.
 \document@idxfile=\write6
 \openout6 = `document.idx'.
 
 
 Writing index file document.idx 
 )
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 17
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 16
 .
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -1206,25 +1226,25 @@ LaTeX Warning: Unused global option(s):
 (./document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-Package hyperref Info: Link coloring OFF on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+Package hyperref Info: Link coloring OFF on input line 16.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1234,29 +1254,29 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count417
+\c@section@level=\count419
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 17.
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
 \myptabbox=\box85
-\myptabboxwidth=\skip303
+\myptabboxwidth=\skip306
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count418
+\scratchcounter=\count420
 \scratchdimen=\dimen305
 \scratchbox=\box86
-\nofMPsegments=\count419
-\nofMParguments=\count420
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count421
+\nofMPsegments=\count421
+\nofMParguments=\count422
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count423
 \MPscratchDim=\dimen306
-\MPnumerator=\count422
-\makeMPintoPDFobject=\count423
-\everyMPtoPDFconversion=\toks53
+\MPnumerator=\count424
+\makeMPintoPDFobject=\count425
+\everyMPtoPDFconversion=\toks54
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1266,19 +1286,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count424
-LaTeX Info: Redefining \microtypecontext on input line 17.
-Package microtype Info: Applying patch `item' on input line 17.
-Package microtype Info: Applying patch `toc' on input line 17.
-Package microtype Info: Applying patch `eqnum' on input line 17.
-Package microtype Info: Applying patch `footnote' on input line 17.
+\c@lstlisting=\count426
+LaTeX Info: Redefining \microtypecontext on input line 16.
+Package microtype Info: Applying patch `item' on input line 16.
+Package microtype Info: Applying patch `toc' on input line 16.
+Package microtype Info: Applying patch `eqnum' on input line 16.
+Package microtype Info: Applying patch `footnote' on input line 16.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 17.
+LaTeX Info: Redefining \showhyphens on input line 16.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1296,33 +1316,65 @@ Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (./body.tex
+
+LaTeX Warning: Citation `mazucato2018' on page 1 undefined on input line 7.
+
+[1
+
+\openout4 = `document.ist'.
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
+4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [2]) (./document.bbl
+bibitemlist
+! Misplaced alignment tab character &.
+l.15 ...hology}. Hoboken, New Jersey: John Wiley &
+                                                   Sons, Inc., 2003.}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
 )
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-[1
+[3] (./document.aux)
 
-\openout4 = `document.ist'.
+LaTeX Warning: There were undefined references.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./document.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 30099 strings out of 478287
- 510905 string characters out of 5849289
- 1025015 words of memory out of 5000000
- 47826 multiletter control sequences out of 15000+600000
- 482661 words of font info for 70 fonts, out of 8000000 for 9000
+ 30573 strings out of 478287
+ 518893 string characters out of 5849289
+ 1031633 words of memory out of 5000000
+ 48212 multiletter control sequences out of 15000+600000
+ 489709 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,10n,120p,1444b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/sh
-are/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-di
-st/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/times/utmr8a.pfb>
-Output written on ./document.pdf (1 page, 32533 bytes).
+ 96i,10n,120p,1492b,375s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
+fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/c
+m-super/sfss1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (3 pages, 63368 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 14345 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 80 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 22561 words of extra memory for PDF output out of 24883 (max. 10000000)
 
