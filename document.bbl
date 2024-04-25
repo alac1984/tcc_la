@@ -5,6 +5,18 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Mazucato 2018]{mazucato2018}
+\abntrefinfo{Mazucato}{MAZUCATO}{2018}
+{MAZUCATO, T. \emph{Metodologia da pesquisa e do trabalho científico}. 1. ed.
+  Penápolis: FUNEPE, 2018.}
+
+\bibitem[Ramirez 2012]{torres_ramirez2012}
+\abntrefinfo{Ramirez}{RAMIREZ}{2012}
+{RAMIREZ, A. T. The lexical approach: Collocability, fluency and implications
+  for teaching.
+\emph{Revista de lenguas para Fines Específicos}, Universidad de Las Palmas de
+  Gran Canaria, v.~18, p. 237--254, 2012.}
+
 \bibitem[Richards e Rodgers 2001]{richards2001}
 \abntrefinfo{Richards e Rodgers}{RICHARDS; RODGERS}{2001}
 {RICHARDS, J.~C.; RODGERS, T.~S. \emph{Approaches and Methods in Language
@@ -12,6 +24,7 @@
 
 \bibitem[Weiner e Freedheim 2003]{weiner2003}
 \abntrefinfo{Weiner e Freedheim}{WEINER; FREEDHEIM}{2003}
-{WEINER, I.~B.; FREEDHEIM, D.~K. \emph{Handbook of Psychology: Volume 1, History of Psychology}. Hoboken, New Jersey: John Wiley & Sons, Inc., 2003.}
+{WEINER, I.~B.; FREEDHEIM, D.~K. \emph{Handbook of Psychology: Volume 1,
+  History of Psychology}. Hoboken, New Jersey: John Wiley \& Sons, Inc., 2003.}
 
 \end{thebibliography}

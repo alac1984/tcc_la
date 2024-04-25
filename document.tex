@@ -13,6 +13,17 @@
 \counterwithout{section}{chapter}
 \input{preambulo.tex}
 
+\newenvironment{citar}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{4cm}  % recuo à esquerda
+    \setlength{\rightmargin}{0cm} % recuo à direita, se necessário
+    \setlength{\parskip}{0cm}     % espaçamento entre parágrafos
+  }
+  \item[]
+}{
+  \end{list}
+}
+
 \begin{document}	
 
   \begin{flushright}
