@@ -5,6 +5,11 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Lewis 1993]{lewis1993}
+\abntrefinfo{Lewis}{LEWIS}{1993}
+{LEWIS, M. \emph{The Lexical Approach: The State of ELT and a Way Forward}. 1.
+  ed. Londres: THOMSON, 1993.}
+
 \bibitem[Mazucato 2018]{mazucato2018}
 \abntrefinfo{Mazucato}{MAZUCATO}{2018}
 {MAZUCATO, T. \emph{Metodologia da pesquisa e do trabalho científico}. 1. ed.
@@ -21,6 +26,13 @@
 \abntrefinfo{Richards e Rodgers}{RICHARDS; RODGERS}{2001}
 {RICHARDS, J.~C.; RODGERS, T.~S. \emph{Approaches and Methods in Language
   Teaching}. 2. ed. Cambridge: Cambridge University Press, 2001.}
+
+\bibitem[Smith 2006]{smith2006}
+\abntrefinfo{Smith}{SMITH}{2006}
+{SMITH, C.
+\emph{The Lexical Approach: Collocation in High School English Language
+  Learners}.
+Tese (PhD dissertation) --- George Fox University, Ann Arbor, Michigan, 2006.}
 
 \bibitem[Weiner e Freedheim 2003]{weiner2003}
 \abntrefinfo{Weiner e Freedheim}{WEINER; FREEDHEIM}{2003}
